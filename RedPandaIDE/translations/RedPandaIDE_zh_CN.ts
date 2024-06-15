@@ -4659,7 +4659,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../mainwindow.ui" line="+14"/>
         <location filename="../mainwindow.cpp" line="+1322"/>
         <source>Red Panda C++</source>
-        <translation>小熊猫C++</translation>
+        <translation>小熊猫C++(build by天远)</translation>
     </message>
     <message>
         <location line="+933"/>

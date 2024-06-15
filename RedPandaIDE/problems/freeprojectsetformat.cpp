@@ -112,7 +112,7 @@ void exportFreeProblemSet(const QList<POJProblem> &problems, const QString &file
        {
             writer.writeStartElement("generator");
             writer.writeAttribute("name","RedPanda-C++");
-            writer.writeAttribute("url","http://royqh.net/redpandacpp/");
+            writer.writeAttribute("url","http://www.yuanpeirong.com");
             writer.writeEndElement(); // generator
         }
         foreach(const POJProblem& problem,problems) {

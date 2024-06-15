@@ -9528,7 +9528,7 @@ void MainWindow::on_actionGit_Push_triggered()
 void MainWindow::on_actionWebsite_triggered()
 {
     if (pSettings->environment().language()=="zh_CN") {
-        QDesktopServices::openUrl(QUrl("http://royqh.net/redpandacpp/"));
+        QDesktopServices::openUrl(QUrl("http://www.yuanpeirong.com"));
     } else {
         QDesktopServices::openUrl(QUrl("https://sourceforge.net/projects/redpanda-cpp/"));
     }
